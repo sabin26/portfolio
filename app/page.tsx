@@ -493,7 +493,7 @@ export default function Home() {
 						<CardHeader>
 							<CardTitle className="flex items-center">
 								<Github className="mr-2 h-5 w-5" />
-								<span>Flutter/Flutter</span>
+								<span>flutter/flutter</span>
 							</CardTitle>
 							<CardDescription>
 								<a
@@ -523,19 +523,20 @@ export default function Home() {
 						<Card>
 							<CardHeader>
 								<CardTitle className="text-lg">
-									Open Source Project 1
+									alexmercerind/window_plus
 								</CardTitle>
 							</CardHeader>
 							<CardContent>
 								<p className="text-muted-foreground">
-									Contributed bug fixes and performance
-									improvements to this project.
+									Contributed bug fixes and feature
+									improvements refining window management
+									functionality to this project.
 								</p>
 							</CardContent>
 							<CardFooter>
 								<Button variant="ghost" size="sm" asChild>
 									<a
-										href="https://github.com/sabin26"
+										href="https://github.com/alexmercerind/window_plus/issues?q=is%3Apr%20author%3Asabin26%20"
 										target="_blank"
 										rel="noopener noreferrer"
 									>
@@ -549,19 +550,19 @@ export default function Home() {
 						<Card>
 							<CardHeader>
 								<CardTitle className="text-lg">
-									Open Source Project 2
+									plugfox/ws
 								</CardTitle>
 							</CardHeader>
 							<CardContent>
 								<p className="text-muted-foreground">
-									Added new features and documentation
-									improvements.
+									Helped in making this websocket plugin
+									WebAssembly (WASM) compatible in dart.
 								</p>
 							</CardContent>
 							<CardFooter>
 								<Button variant="ghost" size="sm" asChild>
 									<a
-										href="https://github.com/sabin26"
+										href="https://github.com/PlugFox/ws/pulls?q=is%3Apr++author%3Asabin26+"
 										target="_blank"
 										rel="noopener noreferrer"
 									>
